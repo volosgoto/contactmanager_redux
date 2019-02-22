@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
 export default () => {
   return (
     <div>
-      <h1 className="display-4">About Contact Manager</h1>
-      <p className="lead">Simple app to manage contacts</p>
-      <p className="text-secondary">Version 1.0.0</p>
+      <h1 className="display-4">Contact Manager + Redux</h1>
+      <p className="lead">App to manage contacts</p>
+      <p className="text-secondary">Version 2.0.0</p>
     </div>
   );
 };
